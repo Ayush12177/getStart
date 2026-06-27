@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ayush12177/getStart/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ayush12177/getStart/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush12177/getStart/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,8 +31,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Ayush12177/getStart/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Ayush12177/getStart/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush12177/getStart/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
