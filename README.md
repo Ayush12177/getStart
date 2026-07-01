@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Ayush12177/getStart/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ayush12177/getStart/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Ayush12177/getStart/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ayush12177/getStart/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayush12177/getStart/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12177/getStart/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -103,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ayush12177/getStart/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ayush12177/getStart/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
