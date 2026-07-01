@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush12177/getStart/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Ayush12177/getStart/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/Ayush12177/getStart/tree/master/0904-fruit-into-baskets) |
 | [1051-height-checker](https://github.com/Ayush12177/getStart/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/Ayush12177/getStart/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush12177/getStart/tree/master/1480-running-sum-of-1d-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ayush12177/getStart/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Ayush12177/getStart/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush12177/getStart/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Ayush12177/getStart/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12177/getStart/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush12177/getStart/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Ayush12177/getStart/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12177/getStart/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
