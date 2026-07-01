@@ -1,18 +1,15 @@
 class Solution {
-    public void reverseStringHelp(char[] s, int start, int end){
-        if(start >= end){
-            return;
-        }
+    public void reverseString(char[] s){
+    int left=0;
+    int right=s.length-1;
+    while(left<right){
+        char temp= s[left];
+        s[left]=s[right];
+        s[right]=temp;
 
-        char temp= s[start];
-        s[start]= s[end];
-        s[end]=temp;
-
-        reverseStringHelp(s, start+1, end-1);        
-
-    }
-    public void reverseString(char[] s) {   
-            reverseStringHelp(s, 0, s.length-1);
+        left++;
+        right--;
+     }
         
     }
 }
