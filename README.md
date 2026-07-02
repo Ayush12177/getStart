@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush12177/getStart/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush12177/getStart/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush12177/getStart/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Ayush12177/getStart/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush12177/getStart/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush12177/getStart/tree/master/0628-maximum-product-of-three-numbers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ayush12177/getStart/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Ayush12177/getStart/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ayush12177/getStart/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush12177/getStart/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Ayush12177/getStart/tree/master/0904-fruit-into-baskets) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Ayush12177/getStart/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ayush12177/getStart/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Ayush12177/getStart/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ayush12177/getStart/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush12177/getStart/tree/master/0628-maximum-product-of-three-numbers) |
