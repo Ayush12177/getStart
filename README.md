@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ayush12177/getStart/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ayush12177/getStart/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ayush12177/getStart/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Ayush12177/getStart/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ayush12177/getStart/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayush12177/getStart/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush12177/getStart/tree/master/0424-longest-repeating-character-replacement) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ayush12177/getStart/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Ayush12177/getStart/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ayush12177/getStart/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayush12177/getStart/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ayush12177/getStart/tree/master/0242-valid-anagram) |
