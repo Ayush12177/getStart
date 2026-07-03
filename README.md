@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush12177/getStart/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayush12177/getStart/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Ayush12177/getStart/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ayush12177/getStart/tree/master/0053-maximum-subarray) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush12177/getStart/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Ayush12177/getStart/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Ayush12177/getStart/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush12177/getStart/tree/master/0167-two-sum-ii-input-array-is-sorted) |
