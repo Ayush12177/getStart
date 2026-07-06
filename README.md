@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ayush12177/getStart/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush12177/getStart/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ayush12177/getStart/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ayush12177/getStart/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayush12177/getStart/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush12177/getStart/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush12177/getStart/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12177/getStart/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush12177/getStart/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ayush12177/getStart/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Ayush12177/getStart/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush12177/getStart/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush12177/getStart/tree/master/2390-removing-stars-from-a-string) |
