@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ayush12177/getStart/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Ayush12177/getStart/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush12177/getStart/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush12177/getStart/tree/master/2390-removing-stars-from-a-string) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ayush12177/getStart/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ayush12177/getStart/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
