@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ayush12177/getStart/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Ayush12177/getStart/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Ayush12177/getStart/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush12177/getStart/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ayush12177/getStart/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush12177/getStart/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush12177/getStart/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Ayush12177/getStart/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ayush12177/getStart/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/Ayush12177/getStart/tree/master/0881-boats-to-save-people) |
 ## Bit Manipulation
@@ -185,9 +187,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayush12177/getStart/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush12177/getStart/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Ayush12177/getStart/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ayush12177/getStart/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Ayush12177/getStart/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
