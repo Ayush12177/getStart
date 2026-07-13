@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Ayush12177/getStart/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/Ayush12177/getStart/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/Ayush12177/getStart/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Ayush12177/getStart/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush12177/getStart/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush12177/getStart/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ayush12177/getStart/tree/master/2073-time-needed-to-buy-tickets) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ayush12177/getStart/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Ayush12177/getStart/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Ayush12177/getStart/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Ayush12177/getStart/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12177/getStart/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush12177/getStart/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Ayush12177/getStart/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/Ayush12177/getStart/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/Ayush12177/getStart/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
