@@ -191,12 +191,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Ayush12177/getStart/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Ayush12177/getStart/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush12177/getStart/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Ayush12177/getStart/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Ayush12177/getStart/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Ayush12177/getStart/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Ayush12177/getStart/tree/master/0509-fibonacci-number) |
 ## Memoization
