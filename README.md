@@ -225,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayush12177/getStart/tree/master/0102-binary-tree-level-order-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Ayush12177/getStart/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
