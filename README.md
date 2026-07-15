@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ayush12177/getStart/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ayush12177/getStart/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayush12177/getStart/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ayush12177/getStart/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush12177/getStart/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush12177/getStart/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ayush12177/getStart/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayush12177/getStart/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayush12177/getStart/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ayush12177/getStart/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush12177/getStart/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush12177/getStart/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Ayush12177/getStart/tree/master/0904-fruit-into-baskets) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ayush12177/getStart/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ayush12177/getStart/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Ayush12177/getStart/tree/master/1051-height-checker) |
 ## Math
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ayush12177/getStart/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ayush12177/getStart/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayush12177/getStart/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
