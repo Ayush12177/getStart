@@ -242,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ayush12177/getStart/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/Ayush12177/getStart/tree/master/0577-employee-bonus) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Ayush12177/getStart/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
