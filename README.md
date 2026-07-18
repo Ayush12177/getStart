@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ayush12177/getStart/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush12177/getStart/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush12177/getStart/tree/master/1480-running-sum-of-1d-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ayush12177/getStart/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush12177/getStart/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ayush12177/getStart/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayush12177/getStart/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ayush12177/getStart/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Ayush12177/getStart/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ayush12177/getStart/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## String
 |  |
 | ------- |
