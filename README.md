@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ayush12177/getStart/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ayush12177/getStart/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush12177/getStart/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/Ayush12177/getStart/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush12177/getStart/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush12177/getStart/tree/master/0628-maximum-product-of-three-numbers) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Ayush12177/getStart/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ayush12177/getStart/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Ayush12177/getStart/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Ayush12177/getStart/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush12177/getStart/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Ayush12177/getStart/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ayush12177/getStart/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush12177/getStart/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
