@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush12177/getStart/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Ayush12177/getStart/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Ayush12177/getStart/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Ayush12177/getStart/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush12177/getStart/tree/master/0287-find-the-duplicate-number) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ayush12177/getStart/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
