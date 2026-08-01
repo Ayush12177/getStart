@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ayush12177/getStart/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush12177/getStart/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Ayush12177/getStart/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Ayush12177/getStart/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush12177/getStart/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush12177/getStart/tree/master/0628-maximum-product-of-three-numbers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ayush12177/getStart/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush12177/getStart/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush12177/getStart/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/Ayush12177/getStart/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush12177/getStart/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Ayush12177/getStart/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush12177/getStart/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush12177/getStart/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Ayush12177/getStart/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush12177/getStart/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ayush12177/getStart/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush12177/getStart/tree/master/0974-subarray-sums-divisible-by-k) |
