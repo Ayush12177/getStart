@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush12177/getStart/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ayush12177/getStart/tree/master/0877-stone-game) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayush12177/getStart/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2652-sum-multiples](https://github.com/Ayush12177/getStart/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayush12177/getStart/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
