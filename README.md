@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Ayush12177/getStart/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ayush12177/getStart/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ayush12177/getStart/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ayush12177/getStart/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Ayush12177/getStart/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush12177/getStart/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush12177/getStart/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayush12177/getStart/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Ayush12177/getStart/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ayush12177/getStart/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush12177/getStart/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ayush12177/getStart/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Ayush12177/getStart/tree/master/0338-counting-bits) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ayush12177/getStart/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Ayush12177/getStart/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
