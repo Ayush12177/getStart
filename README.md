@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12177/getStart/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/Ayush12177/getStart/tree/master/1544-make-the-string-great) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush12177/getStart/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayush12177/getStart/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush12177/getStart/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ayush12177/getStart/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Ayush12177/getStart/tree/master/0881-boats-to-save-people) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayush12177/getStart/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayush12177/getStart/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush12177/getStart/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Ayush12177/getStart/tree/master/1544-make-the-string-great) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayush12177/getStart/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush12177/getStart/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -346,4 +349,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush12177/getStart/tree/master/0020-valid-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayush12177/getStart/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
