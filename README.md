@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush12177/getStart/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayush12177/getStart/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush12177/getStart/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Ayush12177/getStart/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -232,12 +233,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Ayush12177/getStart/tree/master/1544-make-the-string-great) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayush12177/getStart/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush12177/getStart/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Ayush12177/getStart/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Ayush12177/getStart/tree/master/0844-backspace-string-compare) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Ayush12177/getStart/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush12177/getStart/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Ayush12177/getStart/tree/master/3174-clear-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ayush12177/getStart/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
