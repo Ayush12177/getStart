@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Ayush12177/getStart/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush12177/getStart/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayush12177/getStart/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush12177/getStart/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush12177/getStart/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayush12177/getStart/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ayush12177/getStart/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Ayush12177/getStart/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush12177/getStart/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayush12177/getStart/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush12177/getStart/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayush12177/getStart/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush12177/getStart/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -364,5 +366,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ayush12177/getStart/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ayush12177/getStart/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush12177/getStart/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayush12177/getStart/tree/master/1021-remove-outermost-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayush12177/getStart/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
