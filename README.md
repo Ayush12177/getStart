@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ayush12177/getStart/tree/master/0877-stone-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ayush12177/getStart/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayush12177/getStart/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Ayush12177/getStart/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Ayush12177/getStart/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayush12177/getStart/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/Ayush12177/getStart/tree/master/3870-count-commas-in-range) |
