@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush12177/getStart/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Ayush12177/getStart/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/Ayush12177/getStart/tree/master/1109-corporate-flight-bookings) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ayush12177/getStart/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/Ayush12177/getStart/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush12177/getStart/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayush12177/getStart/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ayush12177/getStart/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ayush12177/getStart/tree/master/0877-stone-game) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ayush12177/getStart/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ayush12177/getStart/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## String
 |  |
