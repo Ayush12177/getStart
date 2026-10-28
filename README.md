@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush12177/getStart/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush12177/getStart/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ayush12177/getStart/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1748-sum-of-unique-elements](https://github.com/Ayush12177/getStart/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ayush12177/getStart/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayush12177/getStart/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush12177/getStart/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Ayush12177/getStart/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush12177/getStart/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12177/getStart/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1748-sum-of-unique-elements](https://github.com/Ayush12177/getStart/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayush12177/getStart/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Ayush12177/getStart/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ayush12177/getStart/tree/master/0594-longest-harmonious-subsequence) |
 | [1051-height-checker](https://github.com/Ayush12177/getStart/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush12177/getStart/tree/master/1189-maximum-number-of-balloons) |
+| [1748-sum-of-unique-elements](https://github.com/Ayush12177/getStart/tree/master/1748-sum-of-unique-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayush12177/getStart/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Math
 |  |
