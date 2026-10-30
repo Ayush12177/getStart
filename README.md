@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ayush12177/getStart/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush12177/getStart/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush12177/getStart/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/Ayush12177/getStart/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush12177/getStart/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ayush12177/getStart/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Ayush12177/getStart/tree/master/0844-backspace-string-compare) |
