@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ayush12177/getStart/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ayush12177/getStart/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ayush12177/getStart/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/Ayush12177/getStart/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ayush12177/getStart/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush12177/getStart/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush12177/getStart/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayush12177/getStart/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Ayush12177/getStart/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush12177/getStart/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush12177/getStart/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush12177/getStart/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush12177/getStart/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush12177/getStart/tree/master/1021-remove-outermost-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayush12177/getStart/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ayush12177/getStart/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
