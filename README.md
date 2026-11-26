@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Ayush12177/getStart/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ayush12177/getStart/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Ayush12177/getStart/tree/master/2652-sum-multiples) |
+| [3360-stone-removal-game](https://github.com/Ayush12177/getStart/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayush12177/getStart/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/Ayush12177/getStart/tree/master/3870-count-commas-in-range) |
 ## Binary Search
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Ayush12177/getStart/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush12177/getStart/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Ayush12177/getStart/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/Ayush12177/getStart/tree/master/3360-stone-removal-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ayush12177/getStart/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
